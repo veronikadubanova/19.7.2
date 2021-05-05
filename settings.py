@@ -1,0 +1,7 @@
+
+valid_email = "dubanova_va2@mail.ru"
+valid_password = "123456789"
+invalid_password = '987654321'
+invalid_email = 'dudaova_va2@mail.ru'
+invalid_pet_id = 'dfghjklkjhgfdfghjkl'
+invalid_name = 'dfghjkl;lkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj'
